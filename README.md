@@ -14,6 +14,10 @@ All notes can be opened directly in the browser through navigating to it in GitH
 
 To edit, my favorite program is Typora which is a free download and is great for seamless typing transition in markdown.
 
+https://typora.io/
+
+*As a note, to download Typora, you need to scroll down from the home page. You won't believe how long I stared at the page wondering what in the world I was supposed to click on*
+
 ## Jupyter Notebooks
 
 As a heads up, pretty few of these notebooks contain runable code, so choosing right out the bat to download conda to run them might not be worth it!
