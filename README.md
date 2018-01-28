@@ -28,4 +28,7 @@ To edit and run code locally, clone the repo and download either Anaconda or, if
 
 to open the Jupyter Notebook Program. You can then navigate to the notebook and select it to open.
 
-Alternatively, if you don't want to download any programs to run python code, you can bind the notebook using mybinder. (https://mybinder.org/). After navigating to the site, use the clone link of this repo as the GitHub repo name, keep the branch at master, and optionally select the notebook you want to open (which will speed up the binding). Then, once the notebooks are bound, Jupyter Notebooks will open in your browser and you will be able to navigate to and run the notebook.
+Alternatively, if you don't want to download any programs to run python code, you can bind the notebook using mybinder. The entire repo, ready to be loaded and ran, can be bound by clicking the link below.
+
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fergusonrae/Notes.git/master)
